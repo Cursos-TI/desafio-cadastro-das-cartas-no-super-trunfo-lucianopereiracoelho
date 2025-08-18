@@ -3,6 +3,17 @@
 int main(){
     printf("Desafio super Trunfo!\n");
 
+    char estado;
+    char codigo[4];
+    char cidade[30];
+    int populacao;
+    float area;
+    float pib;
+    int pontosTuristicos;
+
+    printf ("estado")
+
+
 }
 
 // Desafio Super Trunfo - Países
